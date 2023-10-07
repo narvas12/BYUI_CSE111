@@ -1,0 +1,11 @@
+============================
+Date appended: 2023-09-11 22:19:51
+Tire width in MM: 195
+Aspect Ratio of the tire: 65
+Diameter of the wheel: 15
+
+The value of V = 39.00
+
+Name: Emmanuel
+Phone Number: 08129341700
+==============================
